@@ -1,0 +1,4 @@
+record_id,source_type,source_url,source_date_or_unknown,claim_readiness,allowed_use,company_name,public_business_phone,confidence
+accepted-1,company_website,https://example.com/evidence,2026-01-15,dashboard_ready,display_only,Example Service Company,PUBLIC_BUSINESS_PHONE_TOKEN_A,high
+review-1,company_website,https://example.org/review,unknown,hypothesis_only,manual_review,Sample Workshop,PUBLIC_BUSINESS_PHONE_TOKEN_B,low
+quarantine-1,people_search,,bad-date,do_not_visualize,blocked,Private Person,PRIVATE_CELL_TOKEN,unknown
